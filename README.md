@@ -56,7 +56,14 @@
     </td>
     
   <td width="50%" style="vertical-align: middle; text-align: center; padding: 20px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBxdHRmNzltcWFzbG1wNjd3dzN5eXNjMnlkM2tnbndmZmt6aW91bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSZItNK8kdmSUiRi7l/giphy.gif" width="300" alt="Profile GIF">
+      <img src="https://github.com/user-attachments/assets/476a15df-6539-4b08-911d-9d52e867c36b" width="300" alt="Profile GIF">
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+

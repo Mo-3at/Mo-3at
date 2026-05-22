@@ -17,7 +17,7 @@
       
       
   <td width="40%" style="vertical-align: top; padding-top: 0px;">
-      <h2 style="margin-top: 0px; margin-bottom: 10px;">🛠️ My Skills</h2>
+      <h2 style="margin-top: 0px; margin-bottom: 10px;">Skills</h2>
       <ul style="margin-top: 0px; padding-left: 20px;">
         <li>Network Fundamentals</li>
         <li>Pentesting</li>

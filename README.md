@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
       <h2 style="margin: 0;">0xM0M0</h2>
-      <p><i>"Powerd by coffee and autism..."</i></p>
+      <p><i>"Powered by coffee and autism..."</i></p>
       <p style="font-size: 0.9em; color: #888;"><i>Probably gaming</i></p>
     </td>
     

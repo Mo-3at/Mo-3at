@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black">
 </p>
 
 
